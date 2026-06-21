@@ -1,7 +1,7 @@
 # dfenestr8r.github.io
 
 ## Projects
-### [Contact Service Application Enhancement](https://github.com/dfenestr8r/dfenestr8r.github.io/blob/main/cs320MobileApp.zip)
+### [Contact Service Application Enhancement](cs320MobileAppEnhanced.zip)
 
 #### Description
 
@@ -16,11 +16,11 @@ This is the ContactService module from CS320, built as part of a mobile app back
 Just like with the previous enhancement, the real challenge was reinstalling and reconfiguring the Eclipse workspace to properly run the tests like I had in CS-320, but once all of that was ironed out, the main challenges were properly implementing the ArrayList test class and creating meaningful benchmarks to compare it against the hashmap implementation.
 
 
-[Download Link](https://github.com/dfenestr8r/dfenestr8r.github.io/blob/main/cs320MobileApp.zip)
+[Download Link to Original](cs320MobileApp.zip)
 
 
 
-### [Weight Tracker Mobile App](https://github.com/dfenestr8r/dfenestr8r.github.io/blob/main/WeightTrackerEnhanced.zip)
+### [Weight Tracker Mobile App](WeightTrackerEnhanced.zip)
 
 #### Description
 
@@ -42,7 +42,7 @@ The artifact chosen is the WeightTracker Android app developed in CS-360. It is 
 
 
 
-[Download Link](https://github.com/dfenestr8r/dfenestr8r.github.io/blob/main/WeightTrackerEnhanced.zip)
+[Download Link to Original](Jordan_Bishop_WeightTracker(original).zip)
 
 
 
